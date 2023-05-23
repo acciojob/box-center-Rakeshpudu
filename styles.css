@@ -6,9 +6,10 @@
 	color:purple;
 	font-weight:bold;
 }
-.all{
-	border-top-width:0px solid black;
-	padding:200px;
-	display:flex;
-	justify-content:center;
+
+.all {
+  border-top-width: 2px solid black;
+  padding: 200px;
+  display: flex;
+  justify-content: center;
 }
